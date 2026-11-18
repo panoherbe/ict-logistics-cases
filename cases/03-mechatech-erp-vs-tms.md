@@ -27,4 +27,4 @@ Should MechaTech implement an ERP for an all-in-one solution or a specialized TM
 
 ---
 
-Author: Panagiotis Herbe · Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Created 2024 for the course „Information & Communication Technologies in Logistics“ (M.Sc.)
+Author: Panagiotis Herbe · Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Created 2024 for the course "Information and Communication Technologies in Logistics" (M.Sc.)

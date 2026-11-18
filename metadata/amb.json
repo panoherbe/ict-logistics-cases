@@ -10,7 +10,7 @@
     "LearningResource"
   ],
   "name": "ICT in Logistics: case studies and practice data",
-  "description": "Fünf Fallstudien zu Entscheidungen in der Logistik (ERP oder WMS, 3PL oder 4PL, ERP oder TMS, 4PL oder Bedarfsplanung, Zeitpunkt einer ERP-Einführung), synthetische Übungsdaten für zehn Gruppen (Nachfrage, Bestand, Verkäufe, Lieferzeiten) und eine Capstone-Aufgabe mit Bewertungskriterien. 2024 für das Modul „Information & Communication Technologies in Logistics“ (M.Sc.) erstellt und im Wintersemester 2024/25 in der Gruppenarbeit eingesetzt.",
+  "description": "Fünf Fallstudien zu Entscheidungen in der Logistik (ERP oder WMS, 3PL oder 4PL, ERP oder TMS, 4PL oder Bedarfsplanung, Zeitpunkt einer ERP-Einführung), synthetische Übungsdaten für zehn Gruppen (Nachfrage, Bestand, Verkäufe, Lieferzeiten) und eine Capstone-Aufgabe mit Bewertungskriterien. 2024 für das Modul „Information and Communication Technologies in Logistics“ (M.Sc.) erstellt und im Wintersemester 2024/25 in der Gruppenarbeit eingesetzt (Fallstudien im Abschlussprojekt, Daten in einer Gruppenübung).",
   "creator": [
     {
       "type": "Person",
@@ -58,7 +58,7 @@
     "Fallstudie",
     "Gruppenarbeit"
   ],
-  "dateCreated": "2024-11-12",
+  "dateCreated": "2024-11",
   "datePublished": "2026-11-18",
   "hasPart": [
     {

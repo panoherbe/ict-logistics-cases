@@ -27,4 +27,4 @@ Should FreshMart implement an ERP system for a holistic view and integration or 
 
 ---
 
-Author: Panagiotis Herbe · Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Created 2024 for the course „Information & Communication Technologies in Logistics“ (M.Sc.)
+Author: Panagiotis Herbe · Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Created 2024 for the course "Information and Communication Technologies in Logistics" (M.Sc.)
