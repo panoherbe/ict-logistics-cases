@@ -1,0 +1,16 @@
+SKU,Supplier,Lead Time
+SKU_1,Supplier_1,7
+SKU_1,Supplier_2,7
+SKU_1,Supplier_3,10
+SKU_2,Supplier_1,6
+SKU_2,Supplier_2,13
+SKU_2,Supplier_3,10
+SKU_3,Supplier_1,7
+SKU_3,Supplier_2,7
+SKU_3,Supplier_3,12
+SKU_4,Supplier_1,10
+SKU_4,Supplier_2,10
+SKU_4,Supplier_3,7
+SKU_5,Supplier_1,13
+SKU_5,Supplier_2,14
+SKU_5,Supplier_3,11

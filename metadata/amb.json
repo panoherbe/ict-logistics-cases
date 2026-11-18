@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "de"
+    }
+  ],
+  "id": "https://github.com/panoherbe/ict-logistics-cases",
+  "type": [
+    "LearningResource"
+  ],
+  "name": "ICT in Logistics: case studies and practice data",
+  "description": "Fünf Fallstudien zu Entscheidungen in der Logistik (ERP oder WMS, 3PL oder 4PL, ERP oder TMS, 4PL oder Bedarfsplanung, Zeitpunkt einer ERP-Einführung), synthetische Übungsdaten für zehn Gruppen (Nachfrage, Bestand, Verkäufe, Lieferzeiten) und eine Capstone-Aufgabe mit Bewertungskriterien. 2024 für das Modul „Information & Communication Technologies in Logistics“ (M.Sc.) erstellt und im Wintersemester 2024/25 in der Gruppenarbeit eingesetzt.",
+  "creator": [
+    {
+      "type": "Person",
+      "name": "Panagiotis Herbe"
+    }
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "inLanguage": [
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "learningResourceType": [
+    {
+      "id": "http://w3id.org/kim/hcrt/case_study",
+      "prefLabel": {
+        "de": "Fallstudie"
+      }
+    },
+    {
+      "id": "http://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "de": "Daten"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "http://w3id.org/kim/educationalLevel/level_07",
+      "prefLabel": {
+        "de": "Master"
+      }
+    }
+  ],
+  "keywords": [
+    "Logistik",
+    "Supply Chain Management",
+    "ERP",
+    "WMS",
+    "TMS",
+    "3PL",
+    "4PL",
+    "Bedarfsplanung",
+    "Fallstudie",
+    "Gruppenarbeit"
+  ],
+  "dateCreated": "2024-11-12",
+  "datePublished": "2026-11-18",
+  "hasPart": [
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/cases/01-freshmart-erp-vs-wms.md"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/cases/02-ecotrend-3pl-vs-4pl.md"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/cases/03-mechatech-erp-vs-tms.md"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/cases/04-mediserve-4pl-vs-demand-planning.md"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/cases/05-nutrikids-erp-timing.md"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/tree/main/data"
+    },
+    {
+      "id": "https://github.com/panoherbe/ict-logistics-cases/blob/main/capstone/BRIEF.md"
+    }
+  ]
+}
